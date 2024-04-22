@@ -1,0 +1,8 @@
+﻿  Game.cpp
+C:\Users\Hassam Cheema\Desktop\Study\Bahria University\CP Lab\CP Project\C++ Pacman - Classic Arcade Revival\Game.cpp(37,5): warning C4551: function call missing argument list
+C:\Users\Hassam Cheema\Desktop\Study\Bahria University\CP Lab\CP Project\C++ Pacman - Classic Arcade Revival\Game.cpp(42,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Hassam Cheema\Desktop\Study\Bahria University\CP Lab\CP Project\C++ Pacman - Classic Arcade Revival\Game.cpp(173,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hassam Cheema\Desktop\Study\Bahria University\CP Lab\CP Project\C++ Pacman - Classic Arcade Revival\Game.cpp(174,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hassam Cheema\Desktop\Study\Bahria University\CP Lab\CP Project\C++ Pacman - Classic Arcade Revival\Game.cpp(175,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hassam Cheema\Desktop\Study\Bahria University\CP Lab\CP Project\C++ Pacman - Classic Arcade Revival\Game.cpp(176,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  C++ Pacman - Classic Arcade Revival.vcxproj -> C:\Users\Hassam Cheema\Desktop\Study\Bahria University\CP Lab\CP Project\C++ Pacman - Classic Arcade Revival\x64\Debug\C++ Pacman - Classic Arcade Revival.exe
